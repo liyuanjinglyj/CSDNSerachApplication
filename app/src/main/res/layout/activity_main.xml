@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <com.liyuanjinglyj.csdnserachapplication.CSDNSerachView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/textview"
+            android:text="Python"/>
+
+        <TextView
+            style="@style/textview"
+            android:text="Java"/>
+
+        <TextView
+            style="@style/textview"
+            android:text="Spring Boot"/>
+
+        <TextView
+            style="@style/textview"
+            android:text="PHP"/>
+
+        <TextView
+            style="@style/textview"
+            android:text="Vue"/>
+
+        <TextView
+            style="@style/textview"
+            android:text="Flutter"/>
+
+        <TextView
+            style="@style/textview"
+            android:text="Python基础教程"/>
+
+        <TextView
+            style="@style/textview"
+            android:text="Java学习路线"/>
+
+        <TextView
+            style="@style/textview"
+            android:text="C语言"/>
+
+        <TextView
+            style="@style/textview"
+            android:text="Dart语言"/>
+
+        <TextView
+            style="@style/textview"
+            android:text="汇编程序"/>
+
+        <TextView
+            style="@style/textview"
+            android:text="Android Studio"/>
+
+    </com.liyuanjinglyj.csdnserachapplication.CSDNSerachView>
+
+</LinearLayout>
